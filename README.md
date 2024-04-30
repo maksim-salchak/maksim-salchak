@@ -2,7 +2,7 @@
 
 ### :man_technologist: About Me: I am a Frontend Developer
 
-### <h2 align="left" id="stack">:hammer_and_wrench: Languages and Toolsk</h2>
+### <h2 align="left" id="stack">:hammer_and_wrench: Languages and Tools</h2>
 
 <table width='100%'>
   <tr>
