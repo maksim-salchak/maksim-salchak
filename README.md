@@ -29,9 +29,12 @@ I also have experience with **code reviews, mentoring developers, technical lead
   <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logoColor=white" title="Recharts" alt="Recharts" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pixijs/pixijs-original.svg" title="PixiJS" alt="PixiJS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/strapi" title="Strapi" alt="Strapi" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/openlayers" title="OpenLayers" alt="OpenLayers" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
 </p>
 
 ### ⚙️ Engineering
