@@ -1,82 +1,43 @@
 <h1 align="center">Hi there, I'm Maksim Salchak 👋</h1>
 
-### :man_technologist: About Me: I am a Frontend Developer
+### 👨‍💻 About Me
 
-### <h2 align="left" id="stack">:hammer_and_wrench: Languages and Tools</h2>
+I'm a **Frontend Developer** specializing in building complex and scalable web applications with **React and TypeScript**.
 
-<table width='100%'>
-  <tr>
-    <td align="center" width="100" height="100">
-      <a href="#stack"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
-      <br>HTML
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#stack"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-      <br>CSS
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#stack"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>
-      <br>Sass
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#stack"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javaScript" width="40" height="40" /></a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="100" height="100">
-     <a href="#stack"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/></a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#stack"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-      <br>React
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#stack"><img src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-original.svg" alt="mobx" width="40" height="40" /></a>
-      <br>MobX
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#stack"><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/></a>
-      <br>Material UI
-    </td>
-  </tr>
-</table>
-<table width='100%'>
-  <tr>
-    <td align="center" width="100" height="100">
-      <a href="#stack"><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/></a>
-      <br>eslint
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#stack"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></a>
-      <br>Webpack
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#stack"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" \*\*alt="Git" width="40" height="40"/></a>
-      <br>Git
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#stack"><img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/></a>
-      <br>yarn
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#stack"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/></a>
-      <br>npm
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#stack"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
-      <br>Figma
-    </td>
-    <td align="center" width="100" height="100">
-      <a href="#stack"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-      <br>Docker
-    </td>
-  </tr>
-</table>
+I have experience working with enterprise applications, microfrontend architectures, data-heavy interfaces, interactive visualizations, and desktop applications with Electron.
 
+My main focus is on **frontend architecture, performance optimization, legacy code modernization, and building reusable UI solutions**.
 
-<!--
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maksim-salchak)](https://git.io/streak-stats)
- [![trophy](https://github-profile-trophy.vercel.app/?username=maksim-salchak)](https://github.com/ryo-ma/github-profile-trophy)
+I also have experience with **code reviews, mentoring developers, technical leadership, and standardizing frontend development practices**.
 
- 
--->
+### 🛠 Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title="Redux Toolkit" alt="Redux Toolkit" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mobx/mobx-original.svg" title="MobX" alt="MobX" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" title="Ant Design" alt="Ant Design" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logoColor=white" title="Recharts" alt="Recharts" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pixijs/pixijs-original.svg" title="PixiJS" alt="PixiJS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+</p>
+
+### ⚙️ Engineering
+
+`Microfrontends` · `Module Federation` · `Frontend Architecture` · `Performance Optimization` · `Data Visualization` · `Reusable UI Components` · `Legacy Modernization`
+
+### 🤖 AI Tools
+
+`Cursor` · `Claude` · `OpenAI Codex`
